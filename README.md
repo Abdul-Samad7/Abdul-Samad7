@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdul-Samad7
 - 👀 I’m interested in Machine Learning, Data Science, Film, & Sports
-- 🌱 I’m currently learning Introduction to Java
+- 🌱 I’m currently learning COMPUTER ORGANIZATION AND ARCHITECTURE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email me at samad_abdul7@utexas.edu
 - 😄 Pronouns: He/Him
